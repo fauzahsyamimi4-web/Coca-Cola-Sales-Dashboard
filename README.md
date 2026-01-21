@@ -1,11 +1,9 @@
 # Coca-Cola-Sales-Dashboard
 ## Objective
-Build an interactive sales dashboard to help managers quickly understand how Coca-Cola products are performing across **sales, operating profit, pricing, and regions**.  
-The dashboard is designed to make it easy to **spot trends, compare performance by state and brand, and focus on what drives profit**, all in one place.
-![Dashboard Screenshot](images/Dashboard Screenshot.png)
+Build an interactive sales dashboard to help managers quickly understand how Coca-Cola products are performing across **sales, operating profit, pricing, and regions**.  This dashboard is designed to make it easy to **spot trends, compare performance by state and brand, and focus on what drives profit**, all in one place.
+![Dashboard Screenshot](https://raw.githubusercontent.com/username/repo-name/main/images/coca_cola_dashboard.png)
 
 ## Key Insights
-
 ### Sales & Regional Performance
 Visualize sales distribution by **state and region** using an interactive map to identify growth opportunities and underperforming markets.
 
