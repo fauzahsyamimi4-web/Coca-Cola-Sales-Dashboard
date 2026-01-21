@@ -1,6 +1,7 @@
 # Coca-Cola-Sales-Dashboard
 ## Objective
 Create an interactive Sales Dashboard that helps managers and executives quickly understand sales, profit, margins, pricing, and regional performance. This dashboard highlights top and underperforming regions, reveals key drivers of profit, and supports smarter decisions with AI-powered insights and interactive visuals.
+
 ![image alt](https://github.com/fauzahsyamimi4-web/Coca-Cola-Sales-Dashboard/blob/main/Dashboard%20Screenshot.png)
 ## Key Insights
 ### Sales & Regional Performance
